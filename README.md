@@ -74,7 +74,7 @@ $ psql -U [username] [dbname] < dbexport.pgsql
 DATABASE_URL="postgresql://[user]:[password]@127.0.0.1:5432/[database_name]?serverVersion=13&charset=utf8"
 ```
 
-4) go to http://netgame.localhost/ and try to create new links 
+4) go to http://symfony.localhost/ and try to create new links 
 
 ## Note
 
